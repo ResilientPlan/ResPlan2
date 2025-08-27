@@ -21,7 +21,7 @@ In many real-world scenarios, agent plan execution may fail unpredictably. The *
 
 This repository presents an enhanced version of the RESPLAN algorithm with:
 - **Landmark-based pruning**
-- **E-planning with regression-based strategies**
+- **Replanning with regression-based strategies**
 
 ---
 
